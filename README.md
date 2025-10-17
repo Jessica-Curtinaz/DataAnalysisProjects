@@ -11,7 +11,7 @@ Busco constantemente aplicar o que aprendo em projetos práticos, explorando des
 
 📊 **Ferramentas e Tecnologias que utilizo:**
 - Power BI  
-- Python (Pandas, Matplotlib, Seaborn)  
+- Python
 - SQL  
 - Excel  
 - GitHub
