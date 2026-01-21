@@ -38,23 +38,23 @@ O fluxo de dados segue as etapas de **Extração, Carregamento e Transformação
 
 ### 1. Visão Geral de Vendas
 Monitoramento dos principais KPIs financeiros ao longo do tempo.
-![Dashboard Vendas](Análise%de%Desempenho%de%Vendas%e%Marketing%para%E-commerce/Power%BI/Dashboard%1%Faturamento.png)
+<img width="1536" height="862" alt="Dashboard 1 Faturamento" src="https://github.com/user-attachments/assets/bec92a2e-a2c7-414a-a19f-9003036ce5a6" />
 * **Insight:** O faturamento apresenta sazonalidade clara, com picos nos meses de Março e Maio.
 * **Meios de Pagamento:** O Cartão de Crédito representa a maior fatia da receita (42,3%).
 
 ### 2. Análise de Lucratividade
 Foco na saúde financeira da operação.
-![Dashboard Lucro](Dashboard%202%20Lucro.png)
+<img width="1533" height="860" alt="Dashboard 2 Lucro" src="https://github.com/user-attachments/assets/49eeb663-4e0d-4cc6-bc6e-d5c14ef43b2f" />
 * **Margem de Lucro:** A operação mantém uma margem saudável de aproximadamente **49,78%**.
 * **Ticket Médio:** R$ 336,28.
 
 ### 3. Performance de Produtos e Fornecedores
-![Dashboard Produtos](Dashboard%203%20Produto.png)
+<img width="1534" height="859" alt="Dashboard 3 Produto" src="https://github.com/user-attachments/assets/c3bd3078-c3df-4dfd-a91c-76b529ef7903" />
 * Uso de **Árvore Hierárquica** para identificar quais fornecedores trazem os produtos mais vendidos.
 * O *Notebook Ultra Slim 14"* é o campeão de faturamento (R$ 536 Mil), enquanto o *Sistema Operacional Pro* lidera em volume de vendas.
 
 ### 4. Ranking de Vendedores
-![Dashboard Vendedores](Dashboard%204%20Vendedores.png)
+<img width="1533" height="860" alt="Dashboard 4 Vendedores" src="https://github.com/user-attachments/assets/75ee5665-41ea-407e-8e14-87c3b85d568d" />
 * Análise individual de performance para bonificação e metas.
 
 ---
